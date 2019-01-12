@@ -2,31 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee5a37f-3bb7-41fe-9803-d99a08f68225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uri 1071.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,26 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uri 1046.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/uri 1067.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,7 +34,6 @@
         <option value="$PROJECT_DIR$/uri 1006.py" />
         <option value="$PROJECT_DIR$/uri 1007.py" />
         <option value="$PROJECT_DIR$/uri 10043.py" />
-        <option value="$PROJECT_DIR$/uri 1071.py" />
         <option value="$PROJECT_DIR$/uri 1008.py" />
         <option value="$PROJECT_DIR$/uri 1009.py" />
         <option value="$PROJECT_DIR$/uri 1010.py" />
@@ -95,6 +50,7 @@
         <option value="$PROJECT_DIR$/uri 1043.py" />
         <option value="$PROJECT_DIR$/uri 1046.py" />
         <option value="$PROJECT_DIR$/uri 1067.py" />
+        <option value="$PROJECT_DIR$/uri 1071.py" />
       </list>
     </option>
   </component>
@@ -153,28 +109,76 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.7931596" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/uri 1006.py">
@@ -289,9 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uri 1071.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/uri 1017.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -327,17 +328,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uri 1046.py">
+    <entry file="file://$PROJECT_DIR$/uri 1071.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="187">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/uri 1067.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uri 1046.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
         </state>
       </provider>
     </entry>
